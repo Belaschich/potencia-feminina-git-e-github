@@ -4,4 +4,11 @@
 
 ###  configuracao git
 
-### Comandos
+**Comandos**
+### ls (leitura de todo o diretório)
+### CD (acessar o diretório)
+### CD... (retornar)
+### code . (abrir o repositório via vscode)
+### git config --list (verificar a configuração de conexão com o git hub)
+### clear (Limpar o terminal)
+### git init (iniciar o diretório)
