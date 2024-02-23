@@ -2,18 +2,16 @@
 
 Nesta aula estamos aprendendo comandos  bem legais e uteis.
 
-### git status
 **verificar o status dos arquivos e pastas dentro do nosso repositorio**
-
-### git add 
-
-### git add .
+### git status
 
 **adiciona todos os arquivos para a estreira de commit**
-
+### git add .
 ### git add [ caminho do arquivo]
 
 **adicionr um arquvo espeficico**
+### git commit -m "Descrever a alteração feita"
 
+**Enviar o arquivo comitado**
+### git push 
 
-### git commit
