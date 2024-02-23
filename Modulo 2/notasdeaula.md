@@ -14,4 +14,10 @@ Nesta aula estamos aprendendo comandos  bem legais e uteis.
 
 **Enviar o arquivo comitado**
 ### git push 
+### git merge
 
+***EXTRAS***
+### git Pull (Tras alterações feitas no github para o Vscode )
+### git checkout -b (Nome da nova branch)
+
+***TESTANDO***
